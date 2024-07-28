@@ -4,7 +4,7 @@ export default defineNuxtConfig({
     shim: false,
     typeCheck: true,
   },
-  modules: ["nuxt-quasar-ui"],
+  modules: ['nuxt-quasar-ui'],
   quasar: {
     /* */
   },
